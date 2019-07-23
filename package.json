@@ -1,8 +1,8 @@
 {
-  "name": "blank",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "meucep-app",
+  "version": "1.0.0",
+  "author": "Tatiane Pereira",
+  "homepage": "https://github.com/tpbonfim/meucep-app",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -62,7 +62,7 @@
     "tslint": "~5.17.0",
     "typescript": "~3.1.6"
   },
-  "description": "An Ionic project",
+  "description": "Apliocativo para armazenamento de endereços",
   "cordova": {
     "plugins": {
       "cordova-plugin-whitelist": {},
